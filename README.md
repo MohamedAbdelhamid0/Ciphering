@@ -25,7 +25,12 @@ Where: <br>
 ***Key1*** is the first key to be used <br>
 ***Index_of_Letter*** is the index of the current letter getting ciphered <br> 
 ***Key*** is the second key used <br> 
-***Number_of_Alphabets*** is the number of letters in the alphabet used {which is 21 in the italian alphabet} 
+***Number_of_Alphabets*** is the number of letters in the alphabet used {which is 21 in the italian alphabet} <br> 
+
+
+![image](https://github.com/user-attachments/assets/2b10f2e1-cacc-4b72-bed6-27a4769101a0)
+
+
 
 ---
 
@@ -62,7 +67,7 @@ To use the program, you can simply download the Main.cpp file and directly run t
 1. Encrypt the Italian sentence "Questi Dati Sono Classificati"
 2. Assume Key1 = 7 and Key2 = 2
 
-   ![image](https://github.com/user-attachments/assets/8a826cb1-c2c6-45b0-b690-cc144f4546f3)
+![image](https://github.com/user-attachments/assets/8a826cb1-c2c6-45b0-b690-cc144f4546f3)
 
 ![image](https://github.com/user-attachments/assets/616fc9a2-c588-4441-a0e4-b7d509129fa5)
 
